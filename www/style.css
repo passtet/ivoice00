@@ -1,0 +1,21 @@
+@media (min-width: 800px) {
+    #left_column {
+        width: 30%;
+        float: left;
+    }
+    #center_column {
+        width: 70%;
+        float: left;
+    }
+}
+.mini_chart {
+    width: 50%;
+    margin: auto;
+    border: 1px solid grey;
+    text-align: center;
+    line-height: 40px;
+}
+h2 {
+    margin: 10px 0;
+    text-align: center;
+}
